@@ -1,0 +1,4 @@
+fastapi>=0.75.0
+uvicorn>=0.17.6
+scikit-surprise>=1.1.1
+python-multipart
